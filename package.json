@@ -1,0 +1,20 @@
+{
+  "name": "slackbot-blocks-builder",
+  "version": "0.0.2",
+  "description": "Helper to build Slack blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoanm/node-slackbot-blocks-builder.git"
+  },
+  "author": "Yoanm <yoanm@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoanm/node-slackbot-blocks-builder/issues"
+  },
+  "homepage": "https://github.com/yoanm/node-slackbot-blocks-builder#readme",
+  "dependencies": {}
+}
